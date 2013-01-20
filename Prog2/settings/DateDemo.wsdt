@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DateDemo/Flash</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>244</Column0><Column1>36</Column1><Column2>39</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1623</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16126-6998</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DateDemo</ExpandedNode><ExpandedNode>DateDemo/APP</ExpandedNode><ExpandedNode>DateDemo/BSP</ExpandedNode><ExpandedNode>DateDemo/BSP/Headers</ExpandedNode><ExpandedNode>DateDemo/BSP/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15080-7017</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-12146-2503</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\date.c</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>3897</SelStart><SelEnd>3897</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\date.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>361</SelStart><SelEnd>428</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\datedemo.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>695</SelStart><SelEnd>695</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp_ser.c</Filename><XPos>0</XPos><YPos>193</YPos><SelStart>8054</SelStart><SelEnd>8054</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp.c</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>7673</SelStart><SelEnd>7673</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\app_vect.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>1472</SelStart><SelEnd>1472</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\includes.h</Filename><XPos>0</XPos><YPos>52</YPos><SelStart>2668</SelStart><SelEnd>2672</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0123edc0><key>iaridepm.enu1</key></Toolbar-0123edc0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>673</Bottom><Right>339</Right><x>-2</x><y>-2</y><xscreen>73</xscreen><yscreen>266</yscreen><sizeHorzCX>77331</sizeHorzCX><sizeHorzCY>270876</sizeHorzCY><sizeVertCX>361229</sizeVertCX><sizeVertCY>687373</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>264</Bottom><Right>946</Right><x>-2</x><y>-2</y><xscreen>948</xscreen><yscreen>266</yscreen><sizeHorzCX>1004237</sizeHorzCX><sizeHorzCY>270876</sizeHorzCY><sizeVertCX>77331</sizeVertCX><sizeVertCY>270876</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

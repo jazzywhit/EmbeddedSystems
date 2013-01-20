@@ -1,0 +1,215 @@
+/*
+-----------------------------------------------------------------------
+	                    Embedded Systems
+                   Prog 2   -   Jesse Whitworth
+-----------------------------------------------------------------------
+			      Test Runs
+-----------------------------------------------------------------------*/
+
+Packet File Name [pkts.dat] or CTRL-C to quit: pkts.dat
+
+
+Delay Factor [4000000] 0 = Manual Mode or CTRL-C to quit: 4000000
+*** ERROR: Checksum error
+
+NODE 3 HUMIDITY PACKET
+  Humidity = 32  Dew Point = 16
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+NODE 5 SOLAR RADIATION INTENSITY PACKET
+  Solar Radiation Intensity = 514
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+NODE 7 PRECIPITATION PACKET
+  Precipitation Depth = 5.31
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+NODE 9 NODE ID PACKET
+  Node ID = NODE#9
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+NODE 3 HUMIDITY PACKET
+  Humidity = 32  Dew Point = 16
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+NODE 5 SOLAR RADIATION INTENSITY PACKET
+  Solar Radiation Intensity = 514
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+NODE 7 PRECIPITATION PACKET
+  Precipitation Depth = 5.31
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+NODE 9 NODE ID PACKET
+  Node ID = NODE#9
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+NODE 3 HUMIDITY PACKET
+  Humidity = 32  Dew Point = 16
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+NODE 5 SOLAR RADIATION INTENSITY PACKET
+  Solar Radiation Intensity = 514
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+NODE 7 PRECIPITATION PACKET
+  Precipitation Depth = 5.31
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+NODE 9 NODE ID PACKET
+  Node ID = NODE#9
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+NODE 3 HUMIDITY PACKET
+  Humidity = 32  Dew Point = 16
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+NODE 5 SOLAR RADIATION INTENSITY PACKET
+  Solar Radiation Intensity = 514
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+NODE 7 PRECIPITATION PACKET
+  Precipitation Depth = 5.31
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+NODE 9 NODE ID PACKET
+  Node ID = NODE#9
+
+
+Packet File Name [pkts.dat] or CTRL-C to quit: errs.dat
+
+Delay Factor [4000000] 0 = Manual Mode or CTRL-C to quit: 4000000
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+*** ERROR: Bad Preamble Byte 1.
+
+*** ERROR: Bad Preamble Byte 2.
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+*** ERROR: Bad Preamble Byte 2.
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+*** ERROR: Bad Preamble Byte 3.
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+*** ERROR: Checksum error
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+*** ERROR: Unknown Packet Type
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+*** ERROR: Bad Packet Size
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+*** ERROR: Not My Address
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+NODE 9 NODE ID PACKET
+  Node ID = NODE#9
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+*** ERROR: Bad Preamble Byte 1.
+
+*** ERROR: Bad Preamble Byte 2.
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+*** ERROR: Bad Preamble Byte 2.
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+*** ERROR: Bad Preamble Byte 3.
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+*** ERROR: Checksum error
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+*** ERROR: Unknown Packet Type
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+*** ERROR: Bad Packet Size
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+*** ERROR: Not My Address
+
+NODE 8 DATE/TIME STAMP PACKET
+  Time Stamp = 1/26/2012 12:34
+
+NODE 9 NODE ID PACKET
+  Node ID = NODE#9
+
+NODE 2 TEMPERATURE PACKET
+  Temperature = -16
+
+*** ERROR: Bad Preamble Byte 1.
+
+*** ERROR: Bad Preamble Byte 2.
+
+NODE 4 BAROMETRIC PRESSURE PACKET
+  Pressure = 1001
+
+*** ERROR: Bad Preamble Byte 2.
+
+NODE 6 WIND PACKET
+  Wind Direction = 257  Speed = 12.5
+
+*** ERROR: Bad Preamble Byte 3.
+
+
