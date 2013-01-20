@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Prog5/Flash</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>66</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Find-in-Files><ColumnWidth0>322</ColumnWidth0><ColumnWidth1>46</ColumnWidth1><ColumnWidth2>553</ColumnWidth2></Find-in-Files><TerminalIO/><Debug-Log><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>882</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18843-27013</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-10585-15169</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-24141-5746</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29592-27016</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Prog5</ExpandedNode><ExpandedNode>Prog5/APP</ExpandedNode><ExpandedNode>Prog5/APP/Headers</ExpandedNode><ExpandedNode>Prog5/APP/Source</ExpandedNode><ExpandedNode>Prog5/BSP</ExpandedNode><ExpandedNode>Prog5/BSP/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Parser.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>851</SelStart><SelEnd>851</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Bfr.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>607</SelStart><SelEnd>607</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Prog4\App\BfrQ.c</Filename><XPos>0</XPos><YPos>88</YPos><SelStart>4668</SelStart><SelEnd>4668</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\SerIODriver.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>917</SelStart><SelEnd>917</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Parser.c</Filename><XPos>0</XPos><YPos>83</YPos><SelStart>4281</SelStart><SelEnd>4281</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\SerIODriver.c</Filename><XPos>0</XPos><YPos>84</YPos><SelStart>4736</SelStart><SelEnd>4736</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Payload.h</Filename><XPos>0</XPos><YPos>34</YPos><SelStart>1843</SelStart><SelEnd>1843</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\app_vect.c</Filename><XPos>0</XPos><YPos>112</YPos><SelStart>9539</SelStart><SelEnd>9539</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Bfr.c</Filename><XPos>0</XPos><YPos>88</YPos><SelStart>4096</SelStart><SelEnd>4096</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\BfrQ.h</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>2232</SelStart><SelEnd>2232</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\BfrQ.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>3517</SelStart><SelEnd>3517</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Payload.c</Filename><XPos>0</XPos><YPos>250</YPos><SelStart>9900</SelStart><SelEnd>9900</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Reply.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>311</SelStart><SelEnd>311</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Prog5.c</Filename><XPos>0</XPos><YPos>86</YPos><SelStart>3475</SelStart><SelEnd>3475</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\BSP\bsp.c</Filename><XPos>0</XPos><YPos>681</YPos><SelStart>26620</SelStart><SelEnd>26620</SelEnd></Tab><ActiveTab>14</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00c6edc0><key>iaridepm.enu1</key></Toolbar-00c6edc0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>757</Bottom><Right>157</Right><x>-2</x><y>-2</y><xscreen>277</xscreen><yscreen>182</yscreen><sizeHorzCX>293432</sizeHorzCX><sizeHorzCY>185336</sizeHorzCY><sizeVertCX>168432</sizeVertCX><sizeVertCY>772912</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>180</Bottom><Right>946</Right><x>-2</x><y>-2</y><xscreen>948</xscreen><yscreen>182</yscreen><sizeHorzCX>1004237</sizeHorzCX><sizeHorzCY>185336</sizeHorzCY><sizeVertCX>293432</sizeVertCX><sizeVertCY>185336</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
